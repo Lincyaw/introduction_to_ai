@@ -1,0 +1,5 @@
+\contentsline {chapter}{Contents}{2}{section*.1}%
+\contentsline {part}{\partnumberline {I}Basics}{4}{part.1}%
+\contentsline {chapter}{\chapternumberline {1}逻辑回归}{5}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}Hansel and Gretel}{6}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {3}Rupunzel}{9}{chapter.3}%
